@@ -1,0 +1,47 @@
+{
+  "name": "grunt-bower-npm-unify",
+  "version": "0.0.1",
+  "description": "A Grunt task to populate bower.json from package.json",
+  "homepage": "https://github.com/openhoat/grunt-bower-npm-unify",
+  "main": "Gruntfile.js",
+  "author": {
+    "name": "Olivier Penhoat",
+    "email": "openhoat@gmail.com"
+  },
+  "keywords": [
+    "Grunt",
+    "task",
+    "bower",
+    "npm",
+    "generate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/openhoat/grunt-bower-npm-unify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/openhoat/grunt-bower-npm-unify/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/openhoat/grunt-bower-npm-unify/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "2.4.1"
+  },
+  "devDependencies": {
+    "grunt": "0.4.4",
+    "grunt-contrib-clean": "0.5.0",
+    "grunt-contrib-jshint": "0.10.0",
+    "grunt-mkdir": "0.1.1",
+    "grunt-mocha-test": "~0.10.2",
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1",
+    "xunit-file": "0.0.5"
+  }
+}
