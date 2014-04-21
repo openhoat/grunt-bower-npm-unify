@@ -12,6 +12,10 @@ All generic informations (except specific npm ones) specified in your package.js
 
     # npm install grunt-bower-npm-unify --save-dev
 
+## Usage
+
+    # grunt bowerNpmUnify
+
 ## Configuration
 
 Add bowerNpmUnify options in your Gruntfile.js :
