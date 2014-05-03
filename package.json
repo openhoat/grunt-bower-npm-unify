@@ -1,6 +1,6 @@
 {
   "name": "grunt-bower-npm-unify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Grunt task to populate bower.json from package.json",
   "homepage": "https://github.com/openhoat/grunt-bower-npm-unify",
   "main": "Gruntfile.js",
